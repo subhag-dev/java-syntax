@@ -1,7 +1,5 @@
 package collections.hashmap;
 
-import java.util.Map;
-
 class HashmapUtil {
 
     private static final HashmapHelper hashmapHelper = new HashmapHelper();
